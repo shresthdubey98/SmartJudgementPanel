@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amity Coding Club</string>
+    <string name="select_all">Select All</string>
+    <string name="delete">Delete</string>
+    <string name="show">Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

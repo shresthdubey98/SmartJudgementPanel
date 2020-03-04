@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navagation"
+    app:startDestination="@id/feedsFragment">
+    <fragment
+        android:id="@+id/feedsFragment"
+        android:name="com.example.amitycodingclub.fragments.FeedsFragment"
+        android:label="fragment_feeds"
+        tools:layout="@layout/fragment_feeds" />
+    <fragment
+        android:id="@+id/magazineFragment"
+        android:name="com.example.amitycodingclub.fragments.MagazineFragment"
+        android:label="fragment_magazine"
+        tools:layout="@layout/fragment_magazine" />
+    <fragment
+        android:id="@+id/projectsFragment"
+        android:name="com.example.amitycodingclub.fragments.ProjectsFragment"
+        android:label="fragment_projects"
+        tools:layout="@layout/fragment_projects" />
+</navigation>
