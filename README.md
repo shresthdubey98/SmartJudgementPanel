@@ -1,3 +1,3 @@
-# AccApp
-Smart Judgement Panel
+# Smart Judgement Panel
+
 
